@@ -4,7 +4,7 @@ description: Perceive and articulate the completed form within raw material, vag
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4158
+  version: 1.0.4159
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hidden-form-revelation
